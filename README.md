@@ -25,7 +25,7 @@ The project follows **Clean Architecture** to ensure modular, scalable, and main
 ## Technologies Used
 - **Flutter**: For app development.
 - **Firebase Authentication**: For user login and registration.
-- *Bloc**: ( state management method used)
+- *Cubit**: ( state management method used)
 - **Clean Architecture**: Ensures a scalable and maintainable codebase.
 
    
